@@ -16,7 +16,7 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
 *Using ThrallBot is easy! Below is a list of commands that will get you started, followed by examples of usage.*
 
 + **!list**
-   - hows a list of all files uploaded to your server
+   - Shows a list of all files uploaded to your server. **PM istedenfor channel wide, Anders?**
      
 + **!insertfilename**
      
@@ -25,13 +25,13 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
     
 + **!gank**
 
-    - Allows user to send the bot to any channel (within the bot's permissions) to play the selected file. 
+    - Allows user to send the bot to any channel *(within the bot's permissions)* to play the selected file. 
     
-    - Example: !gank @InsertUser *soundfile*
+    - Example: *!gank @InsertUser *soundfile*
     
-    After adding '@' - Discord will list currently online users for you to choose from. The bot will also leave a randomized message to     the user getting 'ganked' *(example "You just got ganked")* These messages are currently not sent via PM, rather channel wide.
+    After adding '@' - Discord will list **currently online users** for you to choose from. The bot will also leave a randomized message     to the user getting 'ganked' *(example "You just got ganked")* These messages are currently not sent via PM, rather channel wide.
     
-    The bot will follow the user getting 'ganked' if changing channels during the 'gank' *(unless user enters a channel where the bot       has no permissions)* until the soundfile is done playing. Making this a highly intrusive, yet fun feature :) 
+    The bot will follow the user getting 'ganked' if changing channels during the 'gank' *(unless user enters a channel where the bot       has no permissions)* until the soundfile is done playing. Making this a *highly* intrusive, yet fun feature :) 
     
     
      
