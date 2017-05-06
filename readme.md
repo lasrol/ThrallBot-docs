@@ -26,7 +26,7 @@ The soundfile is played channel wide, NOT server wide, meaning only members in t
 1. **!gank**
 
     * Allows user to send the bot to any channel (within the bot's permissions) to play the selected file. 
-      Example : `gank @InsertUser *soundfile*` You do not need to write the username after "@" - there will be a list of users currently online for you to choose from. The bot will also leave a message (example "You just got ganked" 
+      Example : !gank @InsertUser *soundfile* You do not need to write the username after "@" - there will be a list of users currently online for you to choose from. The bot will also leave a message (example "You just got ganked" 
       
     
     
