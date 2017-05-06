@@ -33,7 +33,7 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
     
 + **!gank**
 
-    - Allows user to send the bot to any channel *(within the bot's permissions)* to play the selected file. 
+    - Allows user to send the bot to any channel *(within the bot's permissions)* to play the selected file
     
     - Example: *!gank @InsertUser *soundfile*
     
