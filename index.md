@@ -19,7 +19,7 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
    
    - Shows a list of all files uploaded to your server. **PM istedenfor channel wide, Anders?**
      
-+ **!insertfilename**
+- **!insertfilename**
     
     - Commands the bot to play the selected file
     
