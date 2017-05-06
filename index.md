@@ -23,11 +23,14 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
     
     - Commands the bot to play the selected file  (*example: !funnyclip*)
     
+    
     - You can que multiple repeats of the soundfile selected by adding "*" at the end of the command (example: !insertfilename *5)
     
-    - Replacing the filename with **?** will command the bot to play a random clip from the list (*example: !?*)
+   
+   - Replacing the filename with **?** will command the bot to play a random clip from the list (*example: !?*)
     
-    - Queuing multiple clips to one command is possible by adding the **+** command. (*example: !clip1 + clip2*).
+   
+   - Queuing multiple clips to one command is possible by adding the **+** command. (*example: !clip1 + clip2*).
     
    
     
@@ -35,7 +38,9 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
 
     - Allows user to send the bot to any channel *(within the bot's permissions)* to play the selected file. 
     
+    
     - Example: *!gank @InsertUser *soundfile*
+    
     
     After adding '@' - Discord will list **currently online users** for you to choose from. The bot will also leave a randomized message     to the user getting 'ganked' *(example "You just got ganked")* These messages are currently not sent via PM, rather channel wide.
     
