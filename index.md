@@ -20,8 +20,8 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
      
 + **!insertfilename**
      
-    - Commands the bot to play the selected file
-    - You can que multiple repeats of the soundfile selected by adding 'x' at the end of the command (*example: !insertfilename x5*)
+   <p> - Commands the bot to play the selected file
+    - You can que multiple repeats of the soundfile selected by adding 'x' at the end of the command (*example: !insertfilename x5*)</p>
     
 + **!gank**
 
