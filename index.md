@@ -15,15 +15,15 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
 
 *Using ThrallBot is easy! Below is a list of commands that will get you started, followed by examples of usage.*
 
-+!list
++ !list
    - hows a list of all files uploaded to your server
      
-+!insertfilename
++ !insertfilename
      
     - Commands the bot to play the selected file
     - You can que multiple repeats of the soundfile selected by adding 'x' at the end of the command (*example: !insertfilename x5*)
     
-+!gank
++ !gank
 
     - Allows user to send the bot to any channel (within the bot's permissions) to play the selected file. 
     
