@@ -30,7 +30,9 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
     
     * Example: !gank @InsertUser *soundfile*
     
-    After adding '@' - Discord will list currently online users for you to choose from. The bot will also leave a randomized message to the user getting 'ganked' *(example "You just got ganked")* These messages are currently not sent via PM, rather channel wide.
+    After adding '@' - Discord will list currently online users for you to choose from. The bot will also leave a randomized message to     the user getting 'ganked' *(example "You just got ganked")* These messages are currently not sent via PM, rather channel wide.
+    
+    The bot will follow the user getting 'ganked' if changing channels during the 'gank' *(unless user enters a channel where the bot       has no permissions)* until the soundfile is done playing. Making this a highly intrusive, yet fun feature :) 
     
     
      
