@@ -1,4 +1,4 @@
-*Welcome to ThrallBot - A Bot made for use with Discord (https://discordapp.com/)
+*Welcome to ThrallBot - A Bot made for use with Discord (https://discordapp.com/)*
 
 Thrallbot's job is to play short soundclips (can be long if you wish to annoy everyone in the channel)
 The soundfile is played channel wide, **NOT** server wide, meaning only members in the channel you play it in will hear the soundclip played.
