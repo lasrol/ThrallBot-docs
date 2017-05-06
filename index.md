@@ -16,8 +16,8 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
 *Using ThrallBot is easy! Below is a list of commands that will get you started, followed by examples of usage.*
 
 + **!list**
-   -
-   - Shows a list of all files uploaded to your server. **PM istedenfor channel wide, Anders?.**
+   
+   - Shows a list of all files uploaded to your server. **PM istedenfor channel wide, Anders?**
      
 + **!insertfilename**
     
