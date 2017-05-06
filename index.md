@@ -23,14 +23,11 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
     
     - Commands the bot to play the selected file  (*example: !funnyclip*)
     
-    
     - You can que multiple repeats of the soundfile selected by adding "*" at the end of the command (example: !insertfilename *5)
     
-   
-   - Replacing the filename with **?** will command the bot to play a random clip from the list (*example: !?*)
+    - Replacing the filename with **?** will command the bot to play a random clip from the list (*example: !?*)
     
-   
-   - Queuing multiple clips to one command is possible by adding the **+** command. (*example: !clip1 + clip2*).
+    - Queuing multiple clips to one command is possible by adding the **+** command. (*example: !clip1 + clip2*).
     
    
     
@@ -38,7 +35,6 @@ The soundfile is played channel wide, **NOT** server wide, meaning only members 
 
     - Allows user to send the bot to any channel *(within the bot's permissions)* to play the selected file. 
     
-    
     - Example: *!gank @InsertUser *soundfile*
     
     
