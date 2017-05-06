@@ -5,15 +5,15 @@ The soundfile is played channel wide, NOT server wide, meaning only members in t
 
 **Prerequisites** :
 
-Download Discord (https://discordapp.com/)
+*Download Discord (https://discordapp.com/)*
 
 **Getting Started** : 
 
-*Upload a .mp3 version of the file you wish to have the bot play here -> bot-beta.novos.no
+ *Upload a .mp3 version of the file you wish to have the bot play here -> bot-beta.novos.no*
 
 **Usage** 
 
-Using ThrallBot is easy! Below is a list of commands that will get you started, followed by examples of usage.
+*Using ThrallBot is easy! Below is a list of commands that will get you started, followed by examples of usage.*
 
 1. **!list**
    
